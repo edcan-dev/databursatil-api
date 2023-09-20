@@ -1,0 +1,83 @@
+/** _-_-_ **/
+/** + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + **/
+/** FONTS + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + **/
+/** + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + **/
+
+/** _-_-_ **/
+/** OPEN SANS + + **/
+@font-face {
+	font-family: 'Open Sans';
+	src: url('/assets/fonts/open_sans/OpenSans-Regular.woff') format('woff');
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: 'Open Sans';
+	src: url('/assets/fonts/open_sans/OpenSans-Italic.woff') format('woff');
+	font-style: italic;
+}
+
+@font-face {
+	font-family: 'Open Sans';
+	src: url('/assets/fonts/open_sans/OpenSans-Semibold.woff') format('woff');
+	font-weight: bold;
+}
+
+@font-face {
+	font-family: 'Open Sans';
+	src: url('/assets/fonts/open_sans/OpenSans-Bold.woff') format('woff');
+	font-weight: 600;
+}
+
+@font-face {
+	font-family: 'Open Sans';
+	src: url('//assets/fonts/open_sans/OpenSans-Italic.woff') format('woff');
+	font-weight: bold;
+	font-style: italic;
+}
+
+/** _-_-_ **/
+/** LATO + + **/
+@font-face {
+	font-family: 'Lato Light';
+	src: url('/assets/fonts/lato/Lato-Light.woff') format('woff');
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: 'Lato Thin';
+	src: url('/assets/fonts/lato/Lato-Thin.woff') format('woff');
+	font-weight: normal;
+}
+
+
+@font-face {
+	font-family: 'Lato';
+	src: url('/assets/fonts/lato/Lato-Regular.woff') format('woff');
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: 'Lato';
+	src: url('/assets/fonts/lato/Lato-Italic.woff') format('woff');
+	font-style: italic;
+}
+
+@font-face {
+	font-family: 'Lato';
+	src: url('/assets/fonts/lato/Lato-Semibold.woff') format('woff');
+	font-weight: 400;
+}
+
+@font-face {
+	font-family: 'Lato';
+	src: url('/assets/fonts/lato/Lato-Bold.woff') format('woff');
+	font-weight: bold;
+}
+
+@font-face {
+	font-family: 'Lato';
+	src: url('/assets/fonts/lato/Lato-BoldItalic.woff') format('woff');
+	font-weight: bold;
+	font-style: italic;
+}

@@ -1,0 +1,12 @@
+<svg id="house" xmlns="http://www.w3.org/2000/svg" width="26" height="23" viewBox="0 0 26 23">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <title>home_icon</title>
+  <path class="cls-1" d="M13,0,0,12.06H4V23h7V14h4.17v9h7V12.06h4Zm7,20H17V12H9v8H6V10.5L13,4.06l7,6.44Z"/>
+</svg>
